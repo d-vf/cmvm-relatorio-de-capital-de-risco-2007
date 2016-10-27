@@ -1,0 +1,6 @@
+,N. de operacoes SCR,Valorizacao em carteira (1) SCR,N. de operacoes FCR,Valorizacao em carteira (1) FCR
+Opcao europeia (exercicio na maturidade),16,0,55,-8
+Opcao americana (exercicio a qualquer momento),17,-262,37,233
+Outras opcoes,19,1357,80,10525
+Obrigacao (futuro/forward),27,-3178,81,-2630
+Total,79,-2083,253,8120
